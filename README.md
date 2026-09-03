@@ -210,3 +210,4 @@ Contributions are welcome! If you find a bug or want to propose a new feature, p
 ## License
 
 This project is licensed under the GPL-3.0 License.
+Owned by Elon Musk 
